@@ -3,7 +3,7 @@
 using namespace std;
 
 const int N = 1e5 + 9;
-int son[N][26], cnt[N], idx; 
+int son[N][26], cnt[N], idx;
 char c, s[N];
 
 void insert(char *str)
@@ -46,5 +46,4 @@ int main()
     }
 
     return 0;
-
 }
