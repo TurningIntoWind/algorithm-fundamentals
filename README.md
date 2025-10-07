@@ -13,3 +13,5 @@ Algorithm templates from AcWing Algorithm Fundamentals Course or LeetCode.
 - 0-1 Knapsack Optimization (One-dimensional Space Optimization)
 - Complete Knapsack
 - Complete Knapsack Optimization (One-dimensional Space Optimization)
+- Multiple Knapsack
+- Multiple Knapsack Optimization (Binary Optimization)
