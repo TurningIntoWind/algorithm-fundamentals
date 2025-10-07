@@ -25,4 +25,17 @@ Algorithm templates from AcWing Algorithm Fundamentals Course or LeetCode.
 ### String
 ### Binary Heap
 ### Binary Tree
+### Trie
 ### Union Find Set
+### Hash Table
+
+## Search
+
+### dfs
+### bfs
+
+## Graph Theory
+
+## Greedy
+
+## MathMatics
