@@ -37,8 +37,18 @@ Algorithm templates from AcWing Algorithm Fundamentals Course or LeetCode.
 ## Graph Theory
 
 ### Toposort
+- topo_sort
+  
 ### Minimum Spanning Tree
+- prim
+- kruskal
+  
 ### Shortest Path
+- dijkstra
+- dijkstra_heap
+- bellman-ford
+- spfa
+- Floyd
 
 ## Greedy
 
