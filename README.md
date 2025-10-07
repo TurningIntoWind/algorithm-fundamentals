@@ -36,6 +36,10 @@ Algorithm templates from AcWing Algorithm Fundamentals Course or LeetCode.
 
 ## Graph Theory
 
+### Toposort
+### Minimum Spanning Tree
+### Shortest Path
+
 ## Greedy
 
 ## MathMatics
