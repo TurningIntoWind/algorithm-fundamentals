@@ -22,6 +22,8 @@ Algorithm templates from AcWing Algorithm Fundamentals Course or LeetCode.
 
 ### List
 ### Stack
+- eval_stack
+- eval_expression_tree
 ### Queue
 ### String
 ### Binary Heap
