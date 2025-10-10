@@ -28,7 +28,7 @@ void kmp(const string &s, const string &p)
 {
     vector<int> next = get_next(p);
     int i = 0, j = 0;
-    while (i < s.size() && j < p.size())
+    while (i < s.size())
     {
         if (j == -1 || s[i] == p[j])
         {
@@ -54,4 +54,5 @@ int main()
     kmp(s, p);
 
     return 0;
+
 }
