@@ -26,6 +26,7 @@ Algorithm templates from AcWing Algorithm Fundamentals Course or LeetCode.
 - eval_expression_tree
 ### Queue
 ### String
+- KMP
 ### Binary Heap
 ### Binary Tree
 ### Trie
