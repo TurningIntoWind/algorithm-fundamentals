@@ -3,10 +3,16 @@
 Algorithm templates from AcWing Algorithm Fundamentals Course or LeetCode.
 
 ## Sorting Algorithms
+- Insert Sort (Binary Search)
+- Shell Sort
+- Bubble Sort
 - Quick Sort
-- Merge Sort
+- Select Sort
 - Heap Sort
+- Merge Sort
 - Count Sort
+- Radix Sort
+- Bucket Sort
 
 ## Dynamic Programming (DP)
 
