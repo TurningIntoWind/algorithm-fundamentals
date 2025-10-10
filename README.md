@@ -6,6 +6,7 @@ Algorithm templates from AcWing Algorithm Fundamentals Course or LeetCode.
 - Quick Sort
 - Merge Sort
 - Heap Sort
+- Count Sort
 
 ## Dynamic Programming (DP)
 
